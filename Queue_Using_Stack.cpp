@@ -2,7 +2,7 @@
 #include<stack>
 using namespace std;
 
-//here we define a type intStack as int type stack
+//here we define a type intStack as int type stack.
 typedef stack<int> intStack;
 
 //function for enqueue/push element to queue
@@ -57,7 +57,7 @@ int main()
 }
 void enQ(intStack &s,int a)
 {
-    //push a value to first stack.push always happened in first stack
+    //push a value to first stack.push always happened in first stack.
     s.push(a);
 }
 void deQ(intStack &s1,intStack &s2)
