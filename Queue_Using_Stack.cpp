@@ -52,6 +52,7 @@ int main()
             cout<<"Invalid command"<<endl;
         }
     }
+    return 0;
 
 }
 void enQ(intStack &s,int a)
