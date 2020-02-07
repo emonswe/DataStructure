@@ -5,7 +5,7 @@ using namespace std;
 //here we define a type intStack as int type stack.
 typedef stack<int> intStack;
 
-//function for enqueue/push element to queue
+//function for enqueue/push element to queue.
 void enQ(intStack &s,int a);
 
 //function for dequeue/pop element to queue
